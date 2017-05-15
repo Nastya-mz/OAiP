@@ -12,7 +12,7 @@ Ellipses::setValue(float a, float b, float centreX, float centreY)
 	b_ = b;
 	centre_X_ = centreX;
 	centre_Y_ = centreY;
-	e_ = sqrt(1 - powl(b/a, 2));
+	e_ = sqrt(1 - powl(b / a, 2));
 	k_ = 10;
 	phi_ = 0;
 
