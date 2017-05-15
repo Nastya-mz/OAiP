@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.212,=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit8.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.031,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Ellipses.cpp=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.229,=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit9.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.333,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Polygon.cpp=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.397,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\lab1.cbproj=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Project6.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.050,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Menu.h=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.050,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Menu.cpp=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.670,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Rectangles.dfm=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.697,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Project6.cbproj=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Project6.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.791,=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.469,=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.955,C:\Users\Анастасия\Desktop\lab1\lab1.cbproj=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\lab1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.424,=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Project6PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.459,=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit10.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.904,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Houses.h=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit8.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.529,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Elipse.h=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.670,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Rectangles.h=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit6.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.083,=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit7.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.904,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Houses.cpp=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit8.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.042,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Rectangle.h=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit7.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.042,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Rectangle.cpp=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit7.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.051,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Menu.dfm=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.670,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Rectangles.cpp=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit6.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.031,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\House.cpp=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit9.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.359,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Polygons.h=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit5.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.969,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Ellipse.h=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Elipse.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.031,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Ellipses.dfm=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.904,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Houses.dfm=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit8.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.359,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Polygons.dfm=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.333,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Polygon.h=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit4.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.933,=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.359,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Polygons.cpp=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.760,=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.031,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Ellipses.h=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.359,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\lab1PCH1.h=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Project6PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.969,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Ellipse.cpp=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Elipse.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.778,=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.064,=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit6.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.031,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\House.h=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit9.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.529,C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Elipse.cpp=C:\Users\Анастасия\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>2017.05.14 19:42:05.377,C:\Users\Анастасия\Desktop\lab1\lab1.cbproj=C:\Users\Анастасия\Desktop\lab1\lab1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
